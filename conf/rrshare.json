@@ -1,0 +1,9 @@
+{
+    "port" : 2000,
+
+    "logpath" : "",
+    "logqueit" : false,
+    "loglevel" : 1,
+    "logpersistday" : 2,
+    "defaultsavepath" : "/home/rrshare"
+}
